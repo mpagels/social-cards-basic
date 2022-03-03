@@ -1,3 +1,7 @@
+body {
+  margin: 0 20%;
+}
+
 .social-card {
   padding: 16px;
   box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.05);
